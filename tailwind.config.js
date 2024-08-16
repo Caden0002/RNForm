@@ -15,22 +15,27 @@ module.exports = {
       },
 
       fontFamily: {
-        OldSTT: ['Old Standard TT', 'serif'],
+        BG: ['Bricolage Grotesque', 'sans-serif'],
       },
 
       colors: {
         // Define your color variables here
-        textColorPrimary: '#351410',
-        textColorSecondary: '#3F3225',
-        textColorTertiary:  '#483E37',
-        backgroundColorPrimary: '#ECE9D8',
-        backgroundColorSecondary: '#D9D1BB',
-        backgroundColorTertiary: '#351410',
-        backgroundColorQuaternary: '#F6F6EB',
+        textColorPrimary: '#000000',
+        textColorSecondary: '#ff90e7',
+        textColorTertiary:  '#6b6b6b',
+        textColorQuaternary:  '#9ca3af',
+
+
+        backgroundColorPrimary: '#f2e0d6',
+        backgroundColorSecondary: '#dbe4ee',
+        backgroundColorTertiary: '#faedfc',
+        backgroundColorQuaternary:  '#fedb26',
+        backgroundColorQuinary: '#f7f4ee',
+
+
       },
 
     },
   },
   plugins: [],
 };
-
